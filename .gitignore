@@ -1,9 +1,9 @@
 /.vs/
 /artifacts/
 /TestResults/
-/x64/
-/Debug/
-/Release/
+#/x64/
+#/Debug/
+#/Release/
 *.obj
 *.pdb
 *.ilk
