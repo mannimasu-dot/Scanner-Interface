@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<TesseractRuntime Condition="'$(TesseractRuntime)' == '' and Exists('$(ProjectDir)artifacts\tools\tesseract\tesseract.exe')">$(ProjectDir)artifacts\tools\tesseract</TesseractRuntime>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)' == 'Release'">
+	<ClCompile>
+	  <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+	</ClCompile>
+  </ItemDefinitionGroup>
+  <Target Name="ValidateTesseractRuntime" BeforeTargets="Build" Condition="'$(TesseractRuntime)' != '' and !Exists('$(TesseractRuntime)\tesseract.exe')">
+	<Error Text="TesseractRuntime must point to a directory containing tesseract.exe: $(TesseractRuntime)" />
+  </Target>
   <Target Name="CopyScannerHelp" AfterTargets="Build">
-    <Copy SourceFiles="$(ProjectDir)Hilfe.html" DestinationFolder="$(OutDir)" SkipUnchangedFiles="true" />
+	<Copy SourceFiles="$(ProjectDir)Hilfe.html" DestinationFolder="$(OutDir)" SkipUnchangedFiles="true" />
+  </Target>
+  <Target Name="CopyTesseractRuntime" AfterTargets="Build" Condition="'$(TesseractRuntime)' != ''">
+	<ItemGroup>
+	  <TesseractRuntimeFiles Include="$(TesseractRuntime)\**\*" />
+	</ItemGroup>
+	<Copy SourceFiles="@(TesseractRuntimeFiles)" DestinationFiles="@(TesseractRuntimeFiles->'$(OutDir)tesseract\%(RecursiveDir)%(Filename)%(Extension)')" SkipUnchangedFiles="true" />
   </Target>
   <Target Name="BuildTwainHost" AfterTargets="Build" Condition="'$(Platform)' == 'x64' and '$(BuildingTwainHost)' != 'true'">
 	<MSBuild Projects="$(MSBuildProjectFullPath)" Targets="Build" BuildInParallel="false" Properties="Platform=Win32;Configuration=$(Configuration);BuildingTwainHost=true;OutDir=$(ProjectDir)artifacts\$(Configuration)\Win32\;IntDir=$(ProjectDir)artifacts\obj\$(Configuration)\Win32\" />

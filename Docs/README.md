@@ -11,7 +11,7 @@ Eigenständiger Windows-Dokumentarbeitsplatz in C++20/Win32 mit TWAIN als primä
 - `Docs`: Projektdokumentation einschließlich dieser README.
 - `Scripts`: Build-, Validierungs-, OCR- und Asset-Skripte.
 - `Logs`: lokale Build- und Validierungsprotokolle (nicht versioniert).
-- `TestResults` und `artifacts`: unverändert Testdaten, Programme und lokale Prüfwerkzeuge.
+- `TestResults` und `artifacts`: lokale, nicht versionierte Build-Ausgaben, Testdaten und Prüfwerkzeuge.
 - `.github` und `ThirdParty`: Anweisungen sowie Lizenz-/Herkunftshinweise bleiben an ihrem vorgesehenen Ort.
 
 Alle Befehle und Pfadangaben beziehen sich auf den Projektstamm, sofern nicht anders angegeben.
@@ -19,6 +19,8 @@ Alle Befehle und Pfadangaben beziehen sich auf den Projektstamm, sofern nicht an
 ## Bauen und starten
 
 Voraussetzungen: Visual Studio mit C++-Desktopentwicklung, Windows SDK und Toolset v145. Win32 und x64 verwenden weiterhin das vorhandene native Projekt; keine .NET-Migration. Der benötigte Kompressionsteil von zlib 1.4 und ein unverändertes ICC-sRGB2014-Profil sind mit Herkunfts-/Lizenzangaben unter [ThirdParty](..\ThirdParty\NOTICE.md) enthalten. Für die Anwendung sind weder Java noch eine zusätzliche zlib-DLL erforderlich.
+
+Ein vorkompiliertes x64-Paket kann über den in der Repository-README beschriebenen GitHub-Actions-Build heruntergeladen werden. Es enthält `Scanner.exe`, den nötigen x86-TWAIN-Hilfsprozess `TwainHost.exe`, `Hilfe.html`, die README und Lizenzhinweise. Die Release-Binaries enthalten die C++-Runtime statisch; ein separat installiertes Visual C++ Redistributable ist nicht erforderlich. Tesseract für OCR wird nicht durch den GitHub-Build mitgeliefert; OCR erfordert eine separat bereitgestellte Installation.
 
 - Vollständiger Build mit Tests: `powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Scripts\Build.ps1 -Configuration Release -Test`
 - Debug entsprechend mit `-Configuration Debug`.

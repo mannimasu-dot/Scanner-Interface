@@ -1,0 +1,81 @@
+name: Windows build
+
+on:
+  push:
+    branches:
+      - master
+    tags:
+      - 'v*'
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Release binaries
+        shell: pwsh
+        run: powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Scripts\Build.ps1 -Configuration Release
+
+      - name: Run native self-tests
+        shell: pwsh
+        run: |
+          foreach ($platform in @('Win32', 'x64')) {
+            $exe = Join-Path $env:GITHUB_WORKSPACE "artifacts\Release\$platform\Scanner.exe"
+            $testDirectory = Join-Path $env:RUNNER_TEMP "scanner-self-test-$platform"
+            $process = Start-Process -FilePath $exe -ArgumentList @('--self-test', ('"' + $testDirectory + '"')) -PassThru
+            if (-not $process.WaitForExit(180000)) { $process.Kill(); throw "Self-test timed out for $platform" }
+            if ($process.ExitCode -ne 0) { throw "Self-test failed for $platform (exit $($process.ExitCode))" }
+            $report = Join-Path $testDirectory 'results.txt'
+            if (-not (Test-Path $report)) { throw "Self-test report missing for $platform" }
+            if ((Get-Content $report -Raw) -notmatch 'TOTAL FAILURES: 0') { throw "Self-test report contains failures for $platform" }
+          }
+
+      - name: Package runnable x64 application
+        shell: pwsh
+        run: |
+          $output = Join-Path $env:GITHUB_WORKSPACE 'artifacts\Release\x64'
+          $package = Join-Path $env:RUNNER_TEMP 'Scanner-Windows-x64'
+          New-Item -ItemType Directory -Path $package -Force | Out-Null
+          Copy-Item (Join-Path $output 'Scanner.exe') $package
+          Copy-Item (Join-Path $output 'TwainHost.exe') $package
+          Copy-Item (Join-Path $output 'Hilfe.html') $package
+          Copy-Item (Join-Path $env:GITHUB_WORKSPACE 'README.md') $package
+          $thirdParty = Join-Path $package 'ThirdParty'
+          New-Item -ItemType Directory -Path (Join-Path $thirdParty 'zlib') -Force | Out-Null
+          New-Item -ItemType Directory -Path (Join-Path $thirdParty 'tesseract') -Force | Out-Null
+          Copy-Item (Join-Path $env:GITHUB_WORKSPACE 'ThirdParty\NOTICE.md') $thirdParty
+          Copy-Item (Join-Path $env:GITHUB_WORKSPACE 'ThirdParty\zlib\LICENSE') (Join-Path $thirdParty 'zlib\LICENSE')
+          Copy-Item (Join-Path $env:GITHUB_WORKSPACE 'ThirdParty\tesseract\LICENSE') (Join-Path $thirdParty 'tesseract\LICENSE')
+          $archive = Join-Path $env:GITHUB_WORKSPACE 'Scanner-Windows-x64.zip'
+          Compress-Archive -Path (Join-Path $package '*') -DestinationPath $archive -Force
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Scanner-Windows-x64
+          path: Scanner-Windows-x64.zip
+          if-no-files-found: error
+          retention-days: 30
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: build
+    runs-on: windows-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: Scanner-Windows-x64
+          path: dist
+
+      - name: Publish GitHub release
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create $env:GITHUB_REF_NAME .\dist\Scanner-Windows-x64.zip --verify-tag --title "Scanner $env:GITHUB_REF_NAME" --generate-notes
