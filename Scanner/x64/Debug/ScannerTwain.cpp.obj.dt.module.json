@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Scanner\\x64\\Debug\\ScannerTwain.obj",
+            "outputs": [
+                "Scanner\\x64\\Debug\\ScannerTwain.cpp.obj.dt.module.json",
+                "Scanner\\x64\\Debug\\ScannerTwain.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

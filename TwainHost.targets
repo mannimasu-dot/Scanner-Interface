@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Target Name="CopyScannerHelp" AfterTargets="Build">
+    <Copy SourceFiles="$(ProjectDir)Hilfe.html" DestinationFolder="$(OutDir)" SkipUnchangedFiles="true" />
+  </Target>
+  <Target Name="BuildTwainHost" AfterTargets="Build" Condition="'$(Platform)' == 'x64' and '$(BuildingTwainHost)' != 'true'">
+	<MSBuild Projects="$(MSBuildProjectFullPath)" Targets="Build" BuildInParallel="false" Properties="Platform=Win32;Configuration=$(Configuration);BuildingTwainHost=true;OutDir=$(ProjectDir)artifacts\$(Configuration)\Win32\;IntDir=$(ProjectDir)artifacts\obj\$(Configuration)\Win32\" />
+	<Copy SourceFiles="$(ProjectDir)artifacts\$(Configuration)\Win32\Scanner.exe" DestinationFiles="$(OutDir)TwainHost.exe" SkipUnchangedFiles="true" />
+  </Target>
+</Project>

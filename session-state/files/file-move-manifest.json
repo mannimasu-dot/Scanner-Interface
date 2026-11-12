@@ -1,0 +1,308 @@
+﻿[
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-adf-print.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-adf-print.log",
+        "Hash":  "896D4AA689A404833C87183DDF1F52A4380BADF6493747500E539C6BAD182C8A",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-auto-duplex-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-auto-duplex-release.log",
+        "Hash":  "892914EB4E0E502CD6E7DFC4FCAE3E20167758145FC1D102F0D8DC84948E87F2",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-auto-paper-source-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-auto-paper-source-release.log",
+        "Hash":  "89E272085DC18822152143A27FBC601D032F3220819706BF81969B20997C00DA",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-debug.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-debug.log",
+        "Hash":  "B7934FE1AA5A5A804EFFDE1D96D727669D94FC8A95A57FDF68B05B45F5D7C15E",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-dropdown-twain-debug.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-dropdown-twain-debug.log",
+        "Hash":  "E01A39755B43697643872140957F35425188096FD59929A4E16EAA4E2A92163B",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-dropdown-twain-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-dropdown-twain-release.log",
+        "Hash":  "430D39CFFDA8F4053CCF0E745EBF361A9FEECB6794F0E94FE6252B96074CB9DE",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-empty-feeder-flatbed-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-empty-feeder-flatbed-release.log",
+        "Hash":  "8E80913DA78576967A2E1BD09FA8176CB08784DDCA8428D5C90CDB4015194750",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-export-debug.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-export-debug.log",
+        "Hash":  "3EC015BFE8830CA5AD9A2A12D3902303DDCCA22197B1C8033CDE3B471704A27F",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-export-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-export-release.log",
+        "Hash":  "89D727D35C640B7F21DAB97ED0B66E7B4A7BCC29FA8E2D3743EB164C774209C4",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-final-debug.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-final-debug.log",
+        "Hash":  "8401FCAB39D4AB982C08829F5D958B64ACDAE51AE3599D0132FC2A3108D5092E",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-final-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-final-release.log",
+        "Hash":  "BCEBD94073FB281E4B4D6BF003DB2116069AEECCC00F7D68B6FF74078F2F0A15",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-interface-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-interface-release.log",
+        "Hash":  "B1D96F53B799A34AB4B1363F018DAD533222DA7E1DF6C62CA6C2251F4E9A350F",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-larger-plus-minus-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-larger-plus-minus-release.log",
+        "Hash":  "4FAD1C2BAE907DA6DB0129ACBE744B1B898CAF4882FDAAB6B3A964E680C5D76D",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-maximized-window-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-maximized-window-release.log",
+        "Hash":  "637DC5BD749E0316FFBAD3F3DAC718F4184A80E36AF1D5AB6CA4A8737E26C8F5",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-no-image-message-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-no-image-message-release.log",
+        "Hash":  "8693DAD2C200A7872B287BF67B590055CFAFC5F465EDC03F89857EDB9FC79BFB",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-original-ui-debug.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-original-ui-debug.log",
+        "Hash":  "6100100AF105C3903A7DA259B7F77B4F97AC04F3AEAFDB7659B4CED0BB255C43",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-original-ui-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-original-ui-release.log",
+        "Hash":  "8BD1754926FEA98A66A7445B659444A13387D58863552E4733B6937F77A381D8",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-page-numbers-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-page-numbers-release.log",
+        "Hash":  "3478CF1570A3A2B8D455012EDCA4C550434E698F2990CF4DE7ABBC2034A59C54",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-page-progress-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-page-progress-release.log",
+        "Hash":  "3F2B9170B28285FF51073469D6F822F920EDAB10C20A0C3C01C98E45F3B8020C",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-progress-animation-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-progress-animation-release.log",
+        "Hash":  "1DE463D8FF4973539A59FD8F82D8A2C9F9700722536BF04670824EB075F225BC",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-release.log",
+        "Hash":  "84876EC3350F76669B3689E7F7225E8F7B2A80CA433E8A164CCA343D77A4E97A",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-scan-page-progress-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-scan-page-progress-release.log",
+        "Hash":  "BE3041BAF2C707E906DC3BCCC56BFD3CBF0E278662AB7C5AC9E9D0C992F1876A",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-session-views-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-session-views-release.log",
+        "Hash":  "FCED3C8091B4F35391CF7AA844F2B6795BE6A725B91D73EA104733D0B29BD17C",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-source-list-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-source-list-release.log",
+        "Hash":  "17F2165E02F3CFF80F8F924F611606EA6B5D08E52EB6D30663A38628BED16FAC",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-symbols-menu-selection-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-symbols-menu-selection-release.log",
+        "Hash":  "1DF121D211CCD11D4D818F57DF6B06AEDC9CC23E433BBFF1E3B775FED5F67C0E",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-toolbar-dropdown-width-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-toolbar-dropdown-width-release.log",
+        "Hash":  "FC46D82046CD29A9BF6293514CB2F31BC315B8B7ACAD472795D2BF5EF58691F3",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-toolbar-icons-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-toolbar-icons-release.log",
+        "Hash":  "031235F50ACBA8914D03B881994942695265B0789B01422787EC71BCF320E5E0",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-twain-color-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-twain-color-release.log",
+        "Hash":  "21DA2D907EA294D15B50515B8EAF8A6D7A77B62F667D5A55AD11B6DE159B9F4A",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-twain-debug-final.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-twain-debug-final.log",
+        "Hash":  "E6517A8B43609DD6B0AA97237FEA842454F0139DF9494A80490727C9538CD1F5",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-twain-debug.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-twain-debug.log",
+        "Hash":  "5BC7B895078C4CC40B0BFA0AF6BEEF0624437F0E790EF578151C22449C1F1702",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-twain-release-final.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-twain-release-final.log",
+        "Hash":  "5C2CC27D70B160B2273C1345E03BA0BBD1631576ACB7D96D7F5B0C4B573A9FF6",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-twain-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-twain-release.log",
+        "Hash":  "8A08295F7769C0D5C333B97A02243435787412307192A87264C597AACFEE01C5",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\build-unselected-scans-release.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\build-unselected-scans-release.log",
+        "Hash":  "14E091A14DDC5FCC101BB17F095D9039BA5542072D6605C958B8D46EDB693E6E",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Build.ps1",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Scripts\\Build.ps1",
+        "Hash":  "DDE66F8506450CF9735E0E584CEC23071B3768B3BE7620A70962ACF020A635BD",
+        "Folder":  "Scripts"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Extract-OriginalAssets.ps1",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Scripts\\Extract-OriginalAssets.ps1",
+        "Hash":  "59BBD3378B1097BBCF0A9531626C44B374093C51C9F28E75B572A373C22166F5",
+        "Folder":  "Scripts"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Extract-ToolbarReference.ps1",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Scripts\\Extract-ToolbarReference.ps1",
+        "Hash":  "188A70779E0F4F1E2A3C0DA29AA55D5ECF816EC254F799BCC2CB150B5F215242",
+        "Folder":  "Scripts"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\FUNKTIONSUMFANG.md",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Docs\\FUNKTIONSUMFANG.md",
+        "Hash":  "69CFAC415C7CF59E2424181B561043D0717BCCC98213EFD36EA5C1C274B59504",
+        "Folder":  "Docs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\KONZEPT.md",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Docs\\KONZEPT.md",
+        "Hash":  "13EDD4CCA3B8D2F877CF092118F4516629B70E18FF4579031CDA138330B2E866",
+        "Folder":  "Docs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Read-Help.ps1",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Scripts\\Read-Help.ps1",
+        "Hash":  "B25EBA576826DE21F8FBC66769182F8C169BCE9B861715B1F27DBC5E5F51561C",
+        "Folder":  "Scripts"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Read-UiReference.ps1",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Scripts\\Read-UiReference.ps1",
+        "Hash":  "9F8D03A3AB475D2D66452D637F300EDCA719BBCC6CF167873E30C709C7DD1987",
+        "Folder":  "Scripts"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\README.md",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Docs\\README.md",
+        "Hash":  "0933ECB3FC6D09E2D27938D57A2DEFE7D11322FD35BFD457683AB5548B7BA5A9",
+        "Folder":  "Docs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Test-AdfPrintCopy.ps1",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Scripts\\Test-AdfPrintCopy.ps1",
+        "Hash":  "0E2B6B1879FDFA03A9F55E042EC9A2C8043E1C8AE492966FE1D24D4E5DE84496",
+        "Folder":  "Scripts"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\UMSETZUNGSSTAND.md",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Docs\\UMSETZUNGSSTAND.md",
+        "Hash":  "A8FA8858498BCCEFACEC99569169F24A25542E8015C1A69170EFBF776E6D4D92",
+        "Folder":  "Docs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\validate-adf-print-copy.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\validate-adf-print-copy.log",
+        "Hash":  "1444AFEE77F94FE846268EA01131329250432F52A9C5D42EB6990EB9B25180CD",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\validate-export-images.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\validate-export-images.log",
+        "Hash":  "C8A23C3B19984735F7350A4F657CEC313861FCA8E915D0BE0A7631BED8B49593",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\validate-export-pdfa.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\validate-export-pdfa.log",
+        "Hash":  "BFB5E2B177B8288D14C29DE6DF2C05DF41F637E27FDFB97A8E02DED541AC78C2",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\validate-final-hardware.log",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Logs\\validate-final-hardware.log",
+        "Hash":  "2442F31E9B0005227860C8F82E772351CC96C272422D69D6B813BF6B15CB9661",
+        "Folder":  "Logs"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Validate-Hardware.ps1",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Scripts\\Validate-Hardware.ps1",
+        "Hash":  "2E33C9B14B8FCC8DF6E3F38F2EDB094504E52419B1A2E111BAA0DD23EC85908C",
+        "Folder":  "Scripts"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Validate-Images.ps1",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Scripts\\Validate-Images.ps1",
+        "Hash":  "4726D41E8B6335F4B99BE28A1AE9069653A9EF8B7CAC2DCB3D22224B4916243C",
+        "Folder":  "Scripts"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Validate-Pdf.ps1",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Scripts\\Validate-Pdf.ps1",
+        "Hash":  "3BDDB0A117794F0E2B745782F952BEC3C77DF8ADA4C0AE3C4B7C8FEA07C0B948",
+        "Folder":  "Scripts"
+    },
+    {
+        "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Validate-PdfA.ps1",
+        "Target":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Scripts\\Validate-PdfA.ps1",
+        "Hash":  "5AC9D16BA11613E3DD4F72B2CD2D89CF45C9D0286367AA17F9222758E1A9850E",
+        "Folder":  "Scripts"
+    }
+]

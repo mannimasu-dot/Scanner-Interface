@@ -1,0 +1,3 @@
+RequestedPages=1 Copies=1 Mode=synthetic-test
+GdiEndDocSucceeded=1 JobId=6 Pages=1
+PhysicalOutputVisuallyConfirmed=0

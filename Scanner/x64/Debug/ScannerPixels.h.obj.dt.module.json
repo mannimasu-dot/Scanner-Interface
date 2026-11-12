@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Scanner\\x64\\Debug\\ScannerPixels.obj",
+            "outputs": [
+                "Scanner\\x64\\Debug\\ScannerPixels.h.obj.dt.module.json",
+                "Scanner\\x64\\Debug\\ScannerPixels.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

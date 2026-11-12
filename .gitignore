@@ -1,0 +1,15 @@
+/.vs/
+/artifacts/
+/TestResults/
+/x64/
+/Debug/
+/Release/
+*.obj
+*.pdb
+*.ilk
+*.pch
+*.tlog/
+*.lastbuildstate
+/Logs/
+/build-*.log
+/validate-*.log

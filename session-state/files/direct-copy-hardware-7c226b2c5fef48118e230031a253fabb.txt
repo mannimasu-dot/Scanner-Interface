@@ -1,0 +1,6 @@
+Source=TW-Brother MFC-J6935DW LAN Backend=TWAIN
+Dpi=300 Feeder=1 Duplex=1 DriverUI=0
+Printer=FinePrint
+AcquiredPages=1 JobId=9 GdiEndDocSucceeded=1
+DocumentPages=0 MainWindowVisible=0 CopyBusy=0
+PhysicalOutputVisuallyConfirmed=0

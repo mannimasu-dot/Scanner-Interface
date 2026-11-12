@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Scanner.vcxproj" Id="321200d9-3173-4be9-b4b2-2cf6e16b4faa" />
+</Solution>

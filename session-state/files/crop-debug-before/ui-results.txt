@@ -1,0 +1,23 @@
+PASS Crop: Apply initially disabled in button and menu
+PASS Crop: Enter cannot accept before Free
+PASS Crop: marquee maps to pixels without enabling Apply
+PASS Crop: Free menu previews without changing pixels
+PASS Crop: new rectangle resets Free and disables Apply
+PASS Crop: Cut menu erases only rectangle
+PASS Crop: Zoom In changes view
+PASS Crop: Zoom Out restores view
+PASS Crop: Cancel does not accept edited draft
+PASS Crop: Apply initially disabled in button and menu
+PASS Crop: Enter cannot accept before Free
+PASS Crop: marquee maps to pixels without enabling Apply
+PASS Crop: Free button previews without changing pixels
+PASS Crop: new rectangle resets Free and disables Apply
+PASS Crop: Cut button erases only rectangle
+PASS Crop: Zoom In changes view
+PASS Crop: Zoom Out restores view
+PASS Crop: Cancel does not accept edited draft
+FAIL Crop: disabled toolbar is visibly different from active toolbar
+FAIL Crop: enabled toolbar has Mouse-over feedback
+PASS Crop: leaving toolbar clears Mouse-over feedback
+PASS Crop: Free then Apply buttons commit exact rectangle and DPI
+TOTAL FAILURES: 2

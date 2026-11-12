@@ -1,0 +1,15 @@
+PASS Copy: button immediately scans flatbed/ADF/duplex and prints once without changing document or scan settings
+PASS Copy: button immediately scans flatbed/ADF/duplex and prints once without changing document or scan settings
+PASS Copy: button immediately scans flatbed/ADF/duplex and prints once without changing document or scan settings
+PASS Copy: no persistent mode and no scan preview
+PASS Copy: empty document stays empty after immediate button copy
+PASS Copy: partial failed scan neither prints nor changes document and resets busy state
+PASS Copy: cancelled scan never prints partial pages
+PASS Copy: empty successful scan is reported as failure
+PASS Copy: missing default printer fails before scanning without fallback or dialog
+PASS Copy: pending source enumeration is explicit and starts no scan
+PASS Copy: unavailable scanner starts no scan
+PASS Copy: printer cancellation reports failure and preserves document
+PASS Copy: printer exception resets busy state and preserves document
+PASS Copy: scanner exception resets busy state and preserves document
+TOTAL FAILURES: 0

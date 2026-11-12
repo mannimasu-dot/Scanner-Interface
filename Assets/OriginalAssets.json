@@ -1,0 +1,477 @@
+{
+    "Source":  "C:\\Users\\manfr\\source\\repos\\Scanner\\Infos\\Scanner-Interface.exe",
+    "SHA256":  "307B1E2D2A36C295B913D15201A4E2122DF42386F6CEC64118B9F3F51322856F",
+    "Method":  "LoadLibraryExW: LOAD_LIBRARY_AS_DATAFILE | LOAD_LIBRARY_AS_IMAGE_RESOURCE (0x22)",
+    "PrimarySelection":  "First RT_GROUP_ICON in native resource enumeration order; first language",
+    "Resources":  [
+                      {
+                          "Type":  "RT_GROUP_ICON",
+                          "Name":  "#105",
+                          "File":  "OriginalApp.ico",
+                          "Language":  1031,
+                          "Width":  0,
+                          "Height":  0,
+                          "BitsPerPixel":  0,
+                          "Images":  [
+                                         {
+                                             "Id":  2,
+                                             "Width":  48,
+                                             "Height":  48,
+                                             "BitsPerPixel":  4,
+                                             "Bytes":  1640
+                                         },
+                                         {
+                                             "Id":  3,
+                                             "Width":  48,
+                                             "Height":  48,
+                                             "BitsPerPixel":  8,
+                                             "Bytes":  3752
+                                         },
+                                         {
+                                             "Id":  4,
+                                             "Width":  48,
+                                             "Height":  48,
+                                             "BitsPerPixel":  32,
+                                             "Bytes":  9640
+                                         },
+                                         {
+                                             "Id":  5,
+                                             "Width":  32,
+                                             "Height":  32,
+                                             "BitsPerPixel":  1,
+                                             "Bytes":  304
+                                         },
+                                         {
+                                             "Id":  6,
+                                             "Width":  32,
+                                             "Height":  32,
+                                             "BitsPerPixel":  4,
+                                             "Bytes":  744
+                                         },
+                                         {
+                                             "Id":  7,
+                                             "Width":  32,
+                                             "Height":  32,
+                                             "BitsPerPixel":  8,
+                                             "Bytes":  2216
+                                         },
+                                         {
+                                             "Id":  8,
+                                             "Width":  32,
+                                             "Height":  32,
+                                             "BitsPerPixel":  32,
+                                             "Bytes":  4264
+                                         },
+                                         {
+                                             "Id":  9,
+                                             "Width":  24,
+                                             "Height":  24,
+                                             "BitsPerPixel":  4,
+                                             "Bytes":  488
+                                         },
+                                         {
+                                             "Id":  10,
+                                             "Width":  24,
+                                             "Height":  24,
+                                             "BitsPerPixel":  8,
+                                             "Bytes":  1736
+                                         },
+                                         {
+                                             "Id":  11,
+                                             "Width":  24,
+                                             "Height":  24,
+                                             "BitsPerPixel":  32,
+                                             "Bytes":  2440
+                                         },
+                                         {
+                                             "Id":  12,
+                                             "Width":  16,
+                                             "Height":  16,
+                                             "BitsPerPixel":  4,
+                                             "Bytes":  296
+                                         },
+                                         {
+                                             "Id":  13,
+                                             "Width":  16,
+                                             "Height":  16,
+                                             "BitsPerPixel":  8,
+                                             "Bytes":  1384
+                                         },
+                                         {
+                                             "Id":  14,
+                                             "Width":  16,
+                                             "Height":  16,
+                                             "BitsPerPixel":  32,
+                                             "Bytes":  1128
+                                         },
+                                         {
+                                             "Id":  15,
+                                             "Width":  256,
+                                             "Height":  256,
+                                             "BitsPerPixel":  32,
+                                             "Bytes":  20926
+                                         }
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#144",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  64,
+                          "Height":  64,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#145",
+                          "File":  "Original-Bitmap-145-lang1031.bmp",
+                          "Language":  1031,
+                          "Width":  64,
+                          "Height":  64,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#146",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  96,
+                          "Height":  64,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#147",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  64,
+                          "Height":  64,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#162",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  64,
+                          "Height":  64,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#175",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  64,
+                          "Height":  64,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#179",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  64,
+                          "Height":  64,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#260",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  52,
+                          "Height":  52,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#343",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  112,
+                          "Height":  64,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#352",
+                          "File":  "Original-Bitmap-352-lang1031.bmp",
+                          "Language":  1031,
+                          "Width":  44,
+                          "Height":  44,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#353",
+                          "File":  "Original-Bitmap-353-lang1031.bmp",
+                          "Language":  1031,
+                          "Width":  44,
+                          "Height":  44,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#364",
+                          "File":  "Original-Bitmap-364-lang1031.bmp",
+                          "Language":  1031,
+                          "Width":  52,
+                          "Height":  52,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#365",
+                          "File":  "Original-Bitmap-365-lang1031.bmp",
+                          "Language":  1031,
+                          "Width":  52,
+                          "Height":  52,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#418",
+                          "File":  "Original-Bitmap-418-lang1031.bmp",
+                          "Language":  1031,
+                          "Width":  52,
+                          "Height":  52,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#420",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  188,
+                          "Height":  64,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#424",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  96,
+                          "Height":  96,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#428",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  36,
+                          "Height":  34,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#429",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  18,
+                          "Height":  17,
+                          "BitsPerPixel":  4,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#430",
+                          "File":  "Original-Bitmap-430-lang1031.bmp",
+                          "Language":  1031,
+                          "Width":  80,
+                          "Height":  80,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#431",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  240,
+                          "Height":  40,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#433",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  240,
+                          "Height":  40,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#434",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  80,
+                          "Height":  20,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#435",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  80,
+                          "Height":  20,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#437",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  80,
+                          "Height":  20,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#438",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  240,
+                          "Height":  40,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#441",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  80,
+                          "Height":  64,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#446",
+                          "File":  "Original-Bitmap-446-lang1031.bmp",
+                          "Language":  1031,
+                          "Width":  80,
+                          "Height":  80,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#447",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  80,
+                          "Height":  20,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#448",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  80,
+                          "Height":  20,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      },
+                      {
+                          "Type":  "RT_BITMAP",
+                          "Name":  "#449",
+                          "File":  null,
+                          "Language":  1031,
+                          "Width":  80,
+                          "Height":  20,
+                          "BitsPerPixel":  32,
+                          "Images":  [
+
+                                     ]
+                      }
+                  ]
+}

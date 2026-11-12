@@ -1,0 +1,395 @@
+﻿Maschineller OCR-Auszug; Hilfebilder sind die maßgebliche Quelle. Erkennungsfehler sind möglich.
+
+=== Hilfe.jpg ===
+a
+Grewe Scanner-Interface 7 - Hilfe
+Programmbeschreibung
+(Hilfe durchsuchen)
+"Grewe Scanner-Interface" dient dar komfortablen Kontrolle Ihres Scanners. Ob Sie Scanner und Drucker als Kopierer ven,venden, Papieworlagan als Fax oder E-Mail versenden oder Dokumente
+archivieren möchten - dieses Programm macht es Ihnen leicht.
+Eine Übersicht über die neuen Funktionen der aktuellen Version 7 finden Sie hier.
+"Grewe Scanner-Interface" wird in zwei Versionen angeboten:
+als (für den privaten Einsatz) kostenlose Standardversion sowie
+als leistungsfähigere kommerzielle Professional-Edition
+Bereits die kostenlose Standardversion bietet viele Möglichkeiten:
+Unterstützung von Scannern mit T'vndAlN- oder WlA-Schnlttstelle,
+Arch IM aren,
+Kopieren,
+E-Mail- und Fax-Versand',
+automatisches Zuschneiden,
+Impot von Bilddatelen,
+Nachbearbeitungsoptionen und vieles mehr.
+Die kostenlose Standardversion fügt am Seitenrand einen kleinen Hinweis auf dieses Programm ein.
+Noch leistungsfähiger ist die Professional-Edition:
+In der "Professional-Edition" entfällt der Hinweis auf dieses Programm, den die kostenlose Standardversion einfügt (s_o)_
+Während die Standardversion auf das Dateiformat BMP beschränkt ist, unterstützt die 'Professional-Edition" zusätzlich die Formate Pdf, Pdf/A, Png, Tiff und Jpeg Diese ermöglichen die
+Komprimierung der eingelesenen Saiten, wichtig vor allem beim E-Mailversand und beim Archivieren als Datei. Das Pdf- bzw. Pdf/A-Format ist zudem als universelles Format zur
+Langzeitspeicherung und zum Austausch von Dokumenten weit verbreitet.
+Ein weiterer Vorteil der nur in der "Professional-Edition" unterstützten Dateiformate Pdf, Pdf/A und Tiff_ diese ermöglichen das Speichern mehrerer Selten in einer einzigen Datei.
+Aktuelle Versionen
+_ _ dieser Software, Preise, Bestell- und Liefermodalitäten sowie Informationen zu weiteren Produkten finden Sie auf unserer
+• ) für diese Funktionen sind ein Faxprogramm bzw. ein MAPI-kompatibIes E-Mailprogramm erforderlich.
+
+=== Hilfe0.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Inhaltsverzeichnis
+Programmbeschreibung
+Naue Funktionen
+Systemanforderungan
+Kontakt
+Konfiguration:
+Allgemeine Optionen
+Scanner auswählen
+Scanner konfigurieren
+Tasten des Scanners konfigurieren
+Faxprogramm wählen
+Aufgaben:
+Scannen
+Imponieren
+Speichern
+Drucken
+Faxen
+Mailen
+Kopieren
+Tipps:
+Bedienungsoptionan
+Saiten anordnen
+Seiten bearbeiten
+Zwischenablage
+Infos:
+M API
+Still-Image
+MAIN
+WIA
+Hilfestellung bei Problemen
+Su
+(Hilfe durchsuchen)
+
+=== Hilfe1.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+(Hilfe durchsuchen)
+Neue Funktionen in dieser Programmversion
+Neues Speicherformat:
+Unterstützt wird nun auch das für die Langzeitarchmerung geeignete Format PDF/A, welches von Immer mehr Behörden und Firmen bei der Einlieferung von Pdf-Dokumenten erwartet wird.
+Erweiterte Scannerunterstützung:
+Unterstützung von Scannern mit automatischer Seitenzufuhr („Feeder")
+Unterstützung von Duplaxscannarn,
+Unterstützung von Großformatscannern (A3, A2 etc.),
+dauerhaft definierbare Scanberaiche (z. B. zum Scannen von Fotos oder Visitenkarten),
+dauerhafte Speicherung scannerspazifischer Helligkeitsanpassungen,
+schnelle Umschaltung bei mehreren angeschlossenen Scannern.
+Einfachere Bedienung:
+Kombinierte Übersichts- und Seitendarstellung,
+Zweiseitendarstellung,
+Vollbildmodus,
+Mehrfachauswahl von Seiten,
+Verarbeiten einzelner oder einer Auswahl der bereits gescannten Seiten,
+Nachbearbeitung mehrerer Seiten in einem Durchgang,
+Unterstützung dar Zwischenablage (Ausschneiden, Kopieren, Einfügen),
+Verschieben von Seitan durch Ziehen mit der Maus,
+Import von Bilddateien durch Ziehen mit der Maus ins Programmfenster,
+auf Wunsch Umkehrung der Seitensomerung_
+Mehr Optionen beim Archivieren (Speichern):
+Auf Wunsch automatische Erzeugung von Dateinamen,
+beim Speichern als Pdf- und Pdf/A-Datai
+- (wahlweise) Anpassung des Seitenformats an den Scanausschnitt,
+- (wahlweise) verlustfreie Speicherung,
+beim Speichern als Jpg-, Pdf- und Pdf/A-Datei:
+- verbesserte maximale Bildqualität,
+- individuelle Einstellung des Bildqualität,
+beim Speichern als Tiff-Datel neues Kompressionsformat l_nnu'
+
+=== Hilfe2.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Systemanforderungen
+(Hilfe durchsuchen)
+Um dieses Programm einsetzen zu können, benötigen Sie einen PC oder ein Notebook mit folgender Ausstattung:
+Betriebssystem Microsoft Windows 7, Windows Vista oder Windows XP ab Sewicepack 3,
+• Scanner mit -rum/AIN- oder WlASchnittstelle,
+zum Drucken ein grafikfähiger Drucker,
+• zum Mallen ein MAPI-konformes Mallprogramm,
+zum Faxen ein Faxprogramm mit virtuellem Faxdrucker_
+
+=== Hilfe3.jpg ===
+Grewe Scanner-Interface 7
+Kontakt
+- Hilfe
+(Hilfe durchsuchen)
+Grewe Computertechnik GmbH
+Berlin
+http://www.grewe.de
+Anschrift und Rufnummern, Preise, Bestell- und Liefermodalitäten sowie weitere Informationen zu dieser und anderer Software finden Sie unter der oben angegebenen Internetadresse_
+
+=== Hilfe4.jpg ===
+Grewe Scanner-Interface 7
+Optionen
+- Hilfe
+(Hilfe durchsuchen)
+Sie erreichen diesen Dialog über das Pulldown-Menü Extras - Optionen
+Die folgenden Optionen stehen zur Verfügung:
+Nach dem Speichern erste Seite öffnen
+Bei aktivierter Option wird nach dem Speichern die erste Seite mit dem zugeordneten Programm geöffnet.
+Beim Beenden des Programms:
+Seiten in der Seitenübersicht beibehalten
+daim Beenden das Programms Wird die Seltenübersicht nicht geleert, die angezeigten Selten stehen also beim nächsten Programmstart noch zur Verfügung.
+Seitenübersicht nach Rückfrage leeren
+Beim Beenden des Programms Wird gefragt, ob die Seitenübersicht geleert werden soll.
+Seitenübersicht ohne Rückfrage leeren
+Beim Beenden des Programms Wird die Seltenübersicht ohne Rückfrage geleert
+Bei Doppelklick mit linker Maustaste auf eine Seite:
+Seite vergrößem
+Bei Doppelklick mit der linken Maustaste auf eine Seite Wird die Darstellung der betreffenden Seite vergrößert, bei Doppelklick mit der mittleren Maustaste wird sie verkleinert.
+Dialog zum Zuschneiden der Seite öffnen
+dai Doppelklick mit der linken Maustaste auf eine Seite wird der Dialog "Ausschneiden und Freistellen" geöffnet Auch bei Wahl dieser Option können Sie die Skalierung per Doppelklick mit der
+linken bzw. mittleren Maustaste ändern, allerdings müssen Sie dann dabei die STRG-Taste gedrückt halten.
+
+=== Hilfe5.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Scanner wählen
+(Hilfe durchsuchen)
+Sie erreichen diesen Dialog über das Pulldown-Menü Extras - Scanner.
+Wählen Sie in der Liste den zu ven,vendenden Scanner aus
+Mit der Taste Gerät konfigurieren rufen Sie ein Menü zur Konfiguration des eingestellten Scanners auf.
+
+=== Hilfe6.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Scanner konfigurieren
+(Hilfe durchsuchen)
+Sie erreichen diesen Dialog über die Taste 'Konfigurieren" im Menü Scanner.
+Die folgenden Optionen stehen zur Verfügung:
+Helligkeit vorwählen
+Falls der Scanner regelmäßig zu helle oder zu dunkle Bilder liefen, wählen Sie hier die Helligkeit, welche bei Auswahl des Gerätes automatisch eingestellt werden soll.
+Gerätetasten konfigurieren
+Öffnet den Dialog zur Konfiguration der Gerätetasten_
+
+=== Hilfe7.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Gerätetasten konfigurieren
+(Hilfe durchsuchen)
+Viele Scanner sind mit Tasten ausgestattet, mit denen die mitgelieferte Software gesteuert werden kann. Sofern Ihr Scanner die Still-Image-Schnittstella unterstützt, kann auch "Scanner-Intefface"
+mit diesen Tasten bedient werden
+Wichtig: damit dieses Programm vom Betriebssystem über die Betätigung der Tasten am Scanner informiert Wird, muß dieser zuvor entsprechend konfiguriert werden
+Um den Dialog zur Konfiguration der Gerätetastan aufzurufen, wählen Sie im Pulldown-Menü Extras den Eintrag Scanner, klicken Sie im dann erscheinenden Dialog "Scanner wählen" auf
+Konfigurieren und im dann erscheinenden Dialog auf Gerätetasten konfigurieren.
+Folgende Optionen stehen in diesem Dialog zur Verfügung:
+Neu
+Wie Sie eine bislang nicht belegte Gerätetaste konfigurieren, lesen Sie bitte
+Bearbeiten
+Erlaubt das Bearbeiten einer existierenden Gerätetastenkonfiguratlon_
+Löschen
+Erlaubt das Löschen einer existierenden Gerätetastenkonfiguratlon.
+
+=== Hilfe8.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Faxprogramm wählen
+(Hilfe durchsuchen)
+Sie erreichen diesen Dialog über das Pulldown-Menü Extras - Faxprogramm
+Falls bereits ein Faxprogramm installiert ist, können eingelesene Seiten direkt an dieses Faxprogramm weitergegeben werden. Ein Faxprogramm stellt üblichen,velse einen virtuellen Faxdrucker zur
+Verfügung. Durch Ausdruck auf diesen Drucker kann Im Pnnzip jedes druckfähige Programm ein Fax erzeugen _
+Wenn Sie über kein Faxprogramm veHügen .
+können Sie die kostenlose Testversion von "Grewe Fax-Office" ven,venden_ Sie finden diese zum Download auf unserer
+Die folgende Option steht zur Verfügung:
+Fax senden mit
+Wählen Sie hier den zu Ihrem Faxprogramm gehörenden virtuellen Drucker aus _
+
+=== Hilfe9.jpg ===
+Grewe Scanner-Interface 7
+Aufgabe: Scannen
+1. Schritt:
+- Hilfe
+(Hilfe durchsuchen)
+Falls sich das Programm Im Kopiermodus befindet, schalten Sie es mit der Taste Kopiermodus beenden In den Scanmodus_
+2. Schritt:
+Falls nicht bereits geschehen, wählen Sie unter Extras - Scanner das gewünschte Gerät aus _
+3. Schritt:
+Nehmen Sie die erforderlichen Scaneinstellungen vor.
+4. Schritt:
+Legen Sie die zu scannenden Vorlagen in den Scanner ein und betätigen Sie die Taste Scannen. Die gescannten Seiten erscheinen daraufrin in der Seitenüberslcht.
+
+=== Hilfe10.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Aufgabe: Importieren
+1. Schritt:
+(Hilfe durchsuchen)
+Falls sich das Programm Im Kopiermodus befindet, schalten Sie es mit der Taste Kopiermodus beenden In den Scanmodus_
+2. Schritt:
+Wahlen Sie im Pulldown-Menü Aktion den Eintrag Importieren
+3. Schritt:
+Wählen Sie Irn dann erscheinenden Dateiauswahldlalog die zu importierende(n) Datei(en) aus und klicken Sie auf Offnen_ Die importierten Dateien erscheinen dann In der Seitenüberslcht_
+Hinweis:
+Es können ausschließlich Bilddateien importiett werden. Das Programm verwendet für den Import Funktionen des Betriebssystems Ihres PCs Ob der Import bestimmter Dateiformate (z. B. BMP,
+JPG, TIFF etc.) unterstützt Wird, hangt deshalb u. a. von der Version das Betriebssystems ab.
+
+=== Hilfe11.jpg ===
+Grewe Scanner-Interface 7
+Aufgabe: Speichern
+1. Schritt:
+- Hilfe
+(Hilfe durchsuchen)
+Scannen oder importieren Sie die Vorlage
+2. Schritt:
+Betätigen Sie die Taste Speichern. Es erscheint ein Qjalgg, in dem Sie die erforderlichen Einstellungen vornehmen können
+
+=== Hilfe12.jpg ===
+Grewe Scanner-Interface 7
+Aufgabe: Drucken
+1. Schritt:
+- Hilfe
+(Hilfe durchsuchen)
+Scannen oder importieren Sie die Vorlage
+2. Schritt:
+Betätigen Sie die Taste Drucken. Es erscheint ein QJ_aJgg, in dem Sie die erforderlichen Einstellungen vornehmen können.
+
+=== Hilfe13.jpg ===
+Grewe Scanner-Interface 7
+Aufgabe: Faxen
+1. Schritt:
+- Hilfe
+(Hilfe durchsuchen)
+Scannen oder importieren Sie die Vorlage
+2. Schritt:
+Betätigen Sie die Taste Faxen. Es erscheint ein QLalgg, In dem Sie die erforderlichen Einstellungen vornehmen können.
+
+=== Hilfe14.jpg ===
+Grewe Scanner-Interface 7
+Aufgabe: Mailen
+1. Schritt:
+- Hilfe
+(Hilfe durchsuchen)
+Scannen oder importieren Sie die Vorlage
+2. Schritt:
+Betätigen Sie die Taste Mailen. Es erscheint ein in dem Sie die erforderlichen Einstellungen vornehmen können.
+
+=== Hilfe15.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Aufgabe: Kopieren
+1. Schritt:
+(Hilfe durchsuchen)
+Falls sich das Programm nicht im Kopiermodus befindet, schalten sie diesen mit der Taste Kopiermodus oder Über das Pulldown-Menü Aktion - Kopiermodus ein.
+2. Schritt:
+Falls nicht bereits geschehen, wählen Sie unter Extras - Scanner das gewünschte Gerät aus _
+3. Schritt:
+Nehmen Sie die erforderlichen Scaneinstellungen vor.
+4. Schritt:
+Wählen Sie den gewünschten Drucker aus _
+5. Schritt:
+Legen Sie die zu kopierenden Vorlagen In den Scanner ein und betätigen Sie die Taste Kopieren.
+Die folgenden Optionen stehen zur Verfügung:
+Exemplare
+Geben Sie hier an, wieviele Kopien der Vorlage erstellt werden sollen.
+Seiten auf Druckfläche skalieren
+Die meisten Drucker können nicht die komplette Fläche einer Seite bedrucken, so daß evtl. im Randbereich der Vorlage befindliche Informationen nicht gedruckt werden. Wenn Sie dies verhindern
+möchten, aktivieren Sie diese Option.
+
+=== Hilfe16.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Bedienungsoptionen
+„ mit Maus und Tastatur:
+Skalieren (Zoom)
+(Hilfe durchsuchen)
+Bai gedrückter Strg-Taste vergrößert ein Doppelklick mit der linken Maustaste auf eine Seite in der Seitenübersicht die Darstellung, ein Doppeklick mit der mittleren Maustaste (bzw. dem
+Mausrad) verkleinert diese. Alternativ können Sie die Skalierung ändern, Indem Sie bei gedrückter Strg-Taste das Mausrad drehen oder die Tasten + oder - betätigen.
+Verschieben des Bildausschnitts
+Bel vergrößalter Seitenansicht klicken Sie mit gedrückter linker Alt-Taste In eine Seite und verschieben Sie den Ausschnitt mit der Maus (linke Maustaste gedrückt halten).
+Verschieben von Seiten
+Markieren Sie die zu verschiebenden Seiten mit der linken Maustaste und ziehen Sie sie mit gedrückter linker Maustaste an die gewünschte Position. Mehrere Seiten können Sie durch Aufziehen
+eines Rahmens mit der Maus markieren oder durch Anklicken einzelner Seiten bei gedrückter Strg-Taste_
+Speichern, Drucken, Faxen und Mailen ausgewählter Seiten
+Markieren Sie die gewünschten Seiten mit der linken Maustaste und ziehen Sie Sie mit gedrückter linker Maustaste auf das gewünschte Funktionssymbol in der Toolbar_
+
+=== Hilfe17.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Seiten anordnen
+(Hilfe durchsuchen)
+Es gibt mehrere Möglichkeiten, Selten anzuordnen:
+Manuell mit der Maus
+Markieren Sie die zu verschiebenden Selten mit der Maus und ziehen Sie sie mit gedrückter linker Maustaste an die gewünschte Position. Mehrere Selten können Sie durch Aufziehen eines
+Rahmens mit der Maus markieren oder durch Anklicken einzelner Seiten bei gedrückter Strg-Taste_
+Manuell mit der Tastatur
+Markieren Sie die zu verschiebenden Selten mit der Tastatur und schneiden Sie sie mit Strg+X aus. Markieren Sie dann die Seite an der gewünschten neuen Position und fügen Sie die zuvor
+ausgeschnittenen Seitan dort mit Strg+V ein. Wenn Sie die ausgeschnittenen Selten am Ende der Seltenübarsicht einfügen möchten, betätigen Sie die Pfeil-nach-unten-Taste so oft, bis keine
+Saite mehr markiert ist.
+Rückseiten einsortieren
+(Sie finden diese Funktion im Pulldown-Menü Bearbeiten)
+Wenn Sie mehrere beidseitig bedruckte Saiten einscannen möchten und Ihr Scanner zwar über einen automatischen Einzug velfügt, jedoch nicht doppelseitig (Ouplex") scannen kann, erhalten Sie
+mit folgender Vorgehensweise ain richtig sortiertes Scanergabnis:
+Scannen Sie im ersten Durchgang alle Vorderseiten und im nächsten Durchgang alle Rückseiten (durch Umdrehen des kompletten Vorlagenstapels)_ Mit der Funktion "Rückseiten einsortieren"
+werden die im zweiten Durchgang gescannten Rückseiten automatisch an die richtige Stelle verschoben
+Sortierung umkehren
+(Sie finden diese Funktion im Pulldown-Menü Bearbeiten)
+Sollte ein Vorlagenstapel versehentlich in umgekehrter Sortierung eingescannt worden sein, kann mit dieser Funktion die richtige Reihenfolge wieder hergestellt werden.
+
+=== Hilfe18.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Seiten bearbeiten
+Invertieren, drehen oder spiegeln:
+(Hilfe durchsuchen)
+Markieren Sie in dar Seitenübersicht die zu bearbeitenden Selten mit der Maus_ Mehrere Selten können Sie durch Aufziehen eines Rahmens mit der Maus markieren oder durch Anklicken einzelner
+Saiten bei gedrückter STRG-Taste. Wählen Sie dann die gewünschte Bearbeitungsfunktion im Pulldown-Menü Bearbeiten.
+Auschneiden und Freistellen:
+Markieren Sie in der Saitenübarsicht eine einzelne Seite mit der Maus und wählen Sie im Pulldown-Manu Bearbeiten die Funktion Zuschneiden. Es öffnet Sich dann der Dialog "Ausschneiden und
+Freistellen". Ziehen Sie hier mit gedrückter Maustaste einen Rahmen um den betreffenden Bereich und wählen Sie im Pulldown-Menü Bearbeiten die gewünschte Funktion.
+
+=== Hilfe19.jpg ===
+Grewe Scanner-Interface 7
+Zwischenablage
+- Hilfe
+(Hilfe durchsuchen)
+Che Windows-Zwischenablage ermöglicht den Austausch von Bildern zwischen diesem Programm und anderen Windows-Programmen. Mit den Funktionen Ausschneiden und Kopieren Im
+Pulldown-Menü Bearbeiten können Sia eine oder mehrere Seiten aus der Seitenübersicht In die Zwischenablage übernehmen, mit der Funktion Einfügen können Sie Seiten aus der
+Zwischenablage in die Seitenübersicht einfügen
+Beachten Sie jedoch folgende Einschränkung:
+Das Betriebssystem bietet leider keine kompatible Möglichkeit, mehr als eine Seite gleichzeitig in die allgemeine Windows-Zwischenablage zu übernehmen. Deshalb Wird von anderen Programmen
+jeweils nur die erste der von "Scanner-Interface" in die Zwischenablage kopierten Seitan übernommen. daim Kopieren und Einfügen mehrerer Seitan innerhalb von "Scanner-Interface" gilt diese
+Einschränkung nicht, da das Programm eine leistungsfähigere interne Zwischenablage verwendet. Diese Wird allerdings bei Programmende gelöscht, so dass beim nachsten Programmstalt nur der
+Inhalt der allgemeinen Windows-Zwischenablage (max. 1 Seite) ven,vendet Wird.
+
+=== Hilfe20.jpg ===
+Grewe Scanner-Interface 7
+MAPI
+Beschreibung
+- Hilfe
+(Hilfe durchsuchen)
+Das MAPI (Messaging Application Programmng Interface) in Microsoft Windows ist ein standardisiertes Interface zwischen E-Mailprogramman und anderer Software. In Verbindung mit einem MAPI-
+kompatiblen E-Mailprogramm kann "Grewe Scanner-Intefface" aus eingelesenen Seiten eine E-Mail erzeugen.
+So erkennen Sie, ob ein MAPI-kompatibles E-Mailprogramm vorhanden ist:
+Wenn "Grewe Scanner-Intalface" kein passendes E-Mailprogramm findet, gibt es eine entsprechende Fehlermeldung aus bei dem Versuch, eine E-Mail zu erzeugen. Lesen Sie in diesem Fall in der
+Anleitung Ihres E-Mailprogramms nach, ob und Wie Sie dieses als MAPI-kompatlbel konfigurieren können.
+Hinweis zu "Windows 7":
+Mit diesem Betriebssystem wird standardmäßig kein E-Mailprogramm installiert. Zur nachtraglichen Installation bietet Microsoft das Programm "Windows Live Mail" an.
+
+=== Hilfe21.jpg ===
+Grewe Scanner-Interface 7
+Still-Image
+Beschreibung
+- Hilfe
+(Hilfe durchsuchen)
+Che Still-Image-Schnittstelle in Microsoft Windows ist ein standardisiertes Interface zwischen Bildeffassungsgeräten (Wie z. B. Scannern) und Bildeffassungssoftware (wie z. B. diesem Programm).
+Unter anderem erlaubt es die Steuerung des Programms Über die am Scanner angebrachten Funktionstasten
+Allerdings Wird diese Funktion nicht von allen Scannenreibern unterstützt. Bel fehlender Unterstützung ist die Belegung der Scanner-Funktionstasten fest im Scannenrelber vorgegeben, die Tasten
+können dann nicht zur Steuerung dieses Programms verwendet werden.
+
+=== Hilfe22.jpg ===
+Grewe Scanner-Interface 7
+MAIN
+Beschreibung
+- Hilfe
+(Hilfe durchsuchen)
+Die T'vVAlN-Schnittstelle ist ein herstellerunabhängiges Interface für die Kommunikation zwischen Bildeffassungsgeräten und bildverarbeitender Software. Die meisten Scanner und viele andere
+Geräte (Wie z. B. digitale Kameras) unterstützen diesen Standard.
+
+=== Hilfe23.jpg ===
+Grewe Scanner-Interface 7 - Hilfe
+Beschreibung
+(Hilfe durchsuchen)
+WIA steht für "Windows Image Acquisition" und ist eine Softwareschnittstelle zwischen Bilderfassungsgaräten und Microsoft Windows. Die Treibersoftware moderner Scanner ist häufig mit einer
+WlA-Schnittstalle ausgestattet. Windows bietet für diese Scanner eine WlA-T'uVAlN-Konvartierung an, auf die auch dieses Programm zugreift. Sie erkennen diese Scanner in der Regel an der
+Zeichenfolge 'WIA-" vor dem eigentlichen Scannernamen in der Auswahlliste des Programms
+
+=== Hilfe24.jpg ===
+Grewe Scanner-Interface 7
+Support
+- Hilfe
+(Hilfe durchsuchen)
+Hilfestellung erhalten Sie in unserem Supportberelch im Internet:
+http://www.grewe.de/support.html

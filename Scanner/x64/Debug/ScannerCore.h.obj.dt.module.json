@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Scanner\\x64\\Debug\\ScannerCore.obj",
+            "outputs": [
+                "Scanner\\x64\\Debug\\ScannerCore.h.obj.dt.module.json",
+                "Scanner\\x64\\Debug\\ScannerCore.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+Der Buildvorgang wurde am 11.11.2026 11:19:45 gestartet.
+Die Ausführlichkeit der Protokollierung ist auf "Normal" festgelegt.
+     1>Projekt "C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj" auf Knoten "1", Rebuild Ziel(e).
+     1>_PrepareForClean:
+         Die Datei "Scanner\x64\Debug\Scanner.tlog\Scanner.lastbuildstate" wird gelöscht.
+       PrepareForBuild:
+         Die strukturierte Ausgabe ist aktiviert. Die Formatierung der Compilerdiagnose spiegelt die Fehlerhierarchie wider. Weitere Informationen finden Sie unter https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         "Scanner\x64\Debug\Scanner.tlog\unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+         Aktualisieren des Timestamps von "Scanner\x64\Debug\Scanner.tlog\unsuccessfulbuild".
+       ComputeStdModulesCompileInputs:
+         Lesen der Bibliotheksmanifestdatei 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\modules\modules.json', die Daten für bibliotheks 'microsoft/STL' bereitstellt.
+         Aus der Bibliothek 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\modules\std.ixx', die mit diesem Projekt erstellt werden soll, wird ein Modulquellen-'microsoft/STL' hinzugefügt.
+         Aus der Bibliothek 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\modules\std.compat.ixx', die mit diesem Projekt erstellt werden soll, wird ein Modulquellen-'microsoft/STL' hinzugefügt.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D CODE_ANALYSIS /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++20 /permissive- /Fo"Scanner\x64\Debug\\" /Fd"Scanner\x64\Debug\vc145.pdb" /external:W3 /Gd /TP /analyze /analyze:projectdirectory"C:\Users\manfr\source\repos\Scanner" /analyze:rulesetdirectory";C:\Program Files\Microsoft Visual Studio\18\Community\Team Tools\Static Analysis Tools\\Rule Sets;" /analyze:ruleset"C:\Program Files\Microsoft Visual Studio\18\Community\Team Tools\Static Analysis Tools\Rule Sets\NativeRecommendedRules.ruleset" /analyze:quiet /analyze:plugin"C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\bin\HostX86\x64\EspXEngine.dll" /FC /errorReport:queue /utf-8 Scanner.cpp ScannerCore.cpp ScannerExport.cpp ScannerTwain.cpp ScannerWia.cpp ScannerServices.cpp ScannerUi.cpp
+         Scanner.cpp
+         ScannerCore.cpp
+         ScannerExport.cpp
+         ScannerTwain.cpp
+         ScannerWia.cpp
+         ScannerServices.cpp
+         ScannerUi.cpp
+         Code Analysis für C/C++ wird ausgeführt...
+         Code wird generiert...
+         C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D CODE_ANALYSIS /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Scanner\x64\Debug\\" /Fd"Scanner\x64\Debug\vc145.pdb" /external:W3 /Gd /TC /analyze /analyze:projectdirectory"C:\Users\manfr\source\repos\Scanner" /analyze:rulesetdirectory";C:\Program Files\Microsoft Visual Studio\18\Community\Team Tools\Static Analysis Tools\\Rule Sets;" /analyze:ruleset"C:\Program Files\Microsoft Visual Studio\18\Community\Team Tools\Static Analysis Tools\Rule Sets\NativeRecommendedRules.ruleset" /analyze:quiet /analyze:plugin"C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\bin\HostX86\x64\EspXEngine.dll" /FC /errorReport:queue /utf-8 ThirdParty\zlib\adler32.c ThirdParty\zlib\compress.c ThirdParty\zlib\crc32.c ThirdParty\zlib\deflate.c ThirdParty\zlib\trees.c ThirdParty\zlib\zutil.c
+         adler32.c
+         compress.c
+         crc32.c
+         deflate.c
+         trees.c
+         zutil.c
+         Code Analysis für C/C++ wird ausgeführt...
+         Code wird generiert...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Scanner\x64\Debug\Scanner.res" Scanner.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\manfr\source\repos\Scanner\x64\Debug\Scanner.exe" /INCREMENTAL /ILK:"Scanner\x64\Debug\Scanner.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\Include\Manifest\segmentheap.manifest" /DEBUG /PDB:"C:\Users\manfr\source\repos\Scanner\x64\Debug\Scanner.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\manfr\source\repos\Scanner\x64\Debug\Scanner.lib" /MACHINE:X64 Scanner\x64\Debug\Scanner.res
+         Scanner\x64\Debug\Scanner.obj
+         Scanner\x64\Debug\ScannerCore.obj
+         Scanner\x64\Debug\ScannerExport.obj
+         Scanner\x64\Debug\ScannerTwain.obj
+         Scanner\x64\Debug\ScannerWia.obj
+         Scanner\x64\Debug\ScannerServices.obj
+         Scanner\x64\Debug\ScannerUi.obj
+         Scanner\x64\Debug\adler32.obj
+         Scanner\x64\Debug\compress.obj
+         Scanner\x64\Debug\crc32.obj
+         Scanner\x64\Debug\deflate.obj
+         Scanner\x64\Debug\trees.obj
+         Scanner\x64\Debug\zutil.obj
+         Scanner.vcxproj -> C:\Users\manfr\source\repos\Scanner\x64\Debug\Scanner.exe
+     1>C:\Users\manfr\source\repos\Scanner\ScannerExport.cpp(109): warning C6387: "loaded" könnte "0" sein:  dies entspricht nicht der Spezifikation für Funktion "LockResource".  [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+     1>C:\Users\manfr\source\repos\Scanner\ScannerExport.cpp(111): warning C6387: "data" könnte "0" sein:  dies entspricht nicht der Spezifikation für Funktion "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::{ctor}".  [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+     1>C:\Users\manfr\source\repos\Scanner\ThirdParty\zlib\trees.c(585): warning C6385: Lesen ungültiger Daten von "s->bl_count":  die lesbare Größe beträgt "32" Byte, es können jedoch "-2" Byte gelesen werden. [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+     1>C:\Users\manfr\source\repos\Scanner\ThirdParty\zlib\trees.c(601): warning C6385: Lesen ungültiger Daten von "s->bl_count":  die lesbare Größe beträgt "32" Byte, es können jedoch "bits" Byte gelesen werden. [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+       FinalizeBuildStatus:
+         Die Datei "Scanner\x64\Debug\Scanner.tlog\unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Scanner\x64\Debug\Scanner.tlog\Scanner.lastbuildstate".
+     1>Das Projekt "C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj" (1) erstellt "C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj" (1:2) auf Knoten "1", Build Ziel(e).
+     1>PrepareForBuild:
+         Die strukturierte Ausgabe ist aktiviert. Die Formatierung der Compilerdiagnose spiegelt die Fehlerhierarchie wider. Weitere Informationen finden Sie unter https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         "C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\Scanner.tlog\unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+         Aktualisieren des Timestamps von "C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\Scanner.tlog\unsuccessfulbuild".
+       ComputeStdModulesCompileInputs:
+         Lesen der Bibliotheksmanifestdatei 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\modules\modules.json', die Daten für bibliotheks 'microsoft/STL' bereitstellt.
+         Aus der Bibliothek 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\modules\std.ixx', die mit diesem Projekt erstellt werden soll, wird ein Modulquellen-'microsoft/STL' hinzugefügt.
+         Aus der Bibliothek 'C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\modules\std.compat.ixx', die mit diesem Projekt erstellt werden soll, wird ein Modulquellen-'microsoft/STL' hinzugefügt.
+       ClCompile:
+         Alle Ausgaben sind aktuell.
+         C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++20 /permissive- /Fo"C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\\" /Fd"C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\vc145.pdb" /external:W3 /Gd /TP /analyze /analyze:projectdirectory"C:\Users\manfr\source\repos\Scanner" /analyze:rulesetdirectory";C:\Program Files\Microsoft Visual Studio\18\Community\Team Tools\Static Analysis Tools\\Rule Sets;" /analyze:ruleset"C:\Program Files\Microsoft Visual Studio\18\Community\Team Tools\Static Analysis Tools\Rule Sets\NativeRecommendedRules.ruleset" /analyze:quiet /analyze:plugin"C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\bin\HostX86\x86\EspXEngine.dll" /FC /errorReport:queue /utf-8 Scanner.cpp ScannerCore.cpp ScannerExport.cpp ScannerTwain.cpp ScannerWia.cpp ScannerServices.cpp ScannerUi.cpp
+         Scanner.cpp
+         ScannerCore.cpp
+         ScannerExport.cpp
+         ScannerTwain.cpp
+         ScannerWia.cpp
+         ScannerServices.cpp
+         ScannerUi.cpp
+         Code Analysis für C/C++ wird ausgeführt...
+         Code wird generiert...
+         Alle Ausgaben sind aktuell.
+         C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\\" /Fd"C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\vc145.pdb" /external:W3 /Gd /TC /analyze /analyze:projectdirectory"C:\Users\manfr\source\repos\Scanner" /analyze:rulesetdirectory";C:\Program Files\Microsoft Visual Studio\18\Community\Team Tools\Static Analysis Tools\\Rule Sets;" /analyze:ruleset"C:\Program Files\Microsoft Visual Studio\18\Community\Team Tools\Static Analysis Tools\Rule Sets\NativeRecommendedRules.ruleset" /analyze:quiet /analyze:plugin"C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\bin\HostX86\x86\EspXEngine.dll" /FC /errorReport:queue /utf-8 ThirdParty\zlib\adler32.c ThirdParty\zlib\compress.c ThirdParty\zlib\crc32.c ThirdParty\zlib\deflate.c ThirdParty\zlib\trees.c ThirdParty\zlib\zutil.c
+         adler32.c
+         compress.c
+         crc32.c
+         deflate.c
+         trees.c
+         zutil.c
+         Code Analysis für C/C++ wird ausgeführt...
+         Code wird generiert...
+       ResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\manfr\source\repos\Scanner\artifacts\Debug\Win32\Scanner.exe" /INCREMENTAL /ILK:"C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\Scanner.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.52.37025\Include\Manifest\segmentheap.manifest" /DEBUG /PDB:"C:\Users\manfr\source\repos\Scanner\artifacts\Debug\Win32\Scanner.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\manfr\source\repos\Scanner\artifacts\Debug\Win32\Scanner.lib" /MACHINE:X86 C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\Scanner.res
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\Scanner.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\ScannerCore.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\ScannerExport.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\ScannerTwain.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\ScannerWia.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\ScannerServices.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\ScannerUi.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\adler32.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\compress.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\crc32.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\deflate.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\trees.obj
+         C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\zutil.obj
+         Scanner.vcxproj -> C:\Users\manfr\source\repos\Scanner\artifacts\Debug\Win32\Scanner.exe
+     1>C:\Users\manfr\source\repos\Scanner\ScannerExport.cpp(109): warning C6387: "loaded" könnte "0" sein:  dies entspricht nicht der Spezifikation für Funktion "LockResource".  [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+     1>C:\Users\manfr\source\repos\Scanner\ScannerExport.cpp(111): warning C6387: "data" könnte "0" sein:  dies entspricht nicht der Spezifikation für Funktion "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::{ctor}".  [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+     1>C:\Users\manfr\source\repos\Scanner\ScannerTwain.cpp(217): warning C26820: Dies ist ein potenziell speicherintensiver Kopiervorgang. Verwenden Sie einen Verweis, es sei denn, es ist eine Kopie erforderlich (p. 9). [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+     1>C:\Users\manfr\source\repos\Scanner\ThirdParty\zlib\trees.c(585): warning C6385: Lesen ungültiger Daten von "s->bl_count":  die lesbare Größe beträgt "32" Byte, es können jedoch "-2" Byte gelesen werden. [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+     1>C:\Users\manfr\source\repos\Scanner\ThirdParty\zlib\trees.c(601): warning C6385: Lesen ungültiger Daten von "s->bl_count":  die lesbare Größe beträgt "32" Byte, es können jedoch "bits" Byte gelesen werden. [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+       FinalizeBuildStatus:
+         Die Datei "C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\Scanner.tlog\unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "C:\Users\manfr\source\repos\Scanner\artifacts\obj\Debug\Win32\Scanner.tlog\Scanner.lastbuildstate".
+     1>Die Erstellung von Projekt "C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj" ist abgeschlossen (Build Ziel(e)).
+     1>BuildTwainHost:
+         Die Datei wird von "C:\Users\manfr\source\repos\Scanner\artifacts\Debug\Win32\Scanner.exe" in "C:\Users\manfr\source\repos\Scanner\x64\Debug\TwainHost.exe" kopiert.
+     1>Die Erstellung von Projekt "C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj" ist abgeschlossen (Rebuild Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+       "C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj" (Rebuild Ziel) (1) ->
+       (RunNativeCodeAnalysis Ziel) -> 
+         C:\Users\manfr\source\repos\Scanner\ScannerExport.cpp(109): warning C6387: "loaded" könnte "0" sein:  dies entspricht nicht der Spezifikation für Funktion "LockResource".  [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+         C:\Users\manfr\source\repos\Scanner\ScannerExport.cpp(111): warning C6387: "data" könnte "0" sein:  dies entspricht nicht der Spezifikation für Funktion "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::{ctor}".  [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+         C:\Users\manfr\source\repos\Scanner\ThirdParty\zlib\trees.c(585): warning C6385: Lesen ungültiger Daten von "s->bl_count":  die lesbare Größe beträgt "32" Byte, es können jedoch "-2" Byte gelesen werden. [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+         C:\Users\manfr\source\repos\Scanner\ThirdParty\zlib\trees.c(601): warning C6385: Lesen ungültiger Daten von "s->bl_count":  die lesbare Größe beträgt "32" Byte, es können jedoch "bits" Byte gelesen werden. [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+
+
+       "C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj" (Rebuild Ziel) (1) ->
+       "C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj" (Build Ziel) (1:2) ->
+         C:\Users\manfr\source\repos\Scanner\ScannerExport.cpp(109): warning C6387: "loaded" könnte "0" sein:  dies entspricht nicht der Spezifikation für Funktion "LockResource".  [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+         C:\Users\manfr\source\repos\Scanner\ScannerExport.cpp(111): warning C6387: "data" könnte "0" sein:  dies entspricht nicht der Spezifikation für Funktion "std::basic_string<char,std::char_traits<char>,std::allocator<char> >::{ctor}".  [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+         C:\Users\manfr\source\repos\Scanner\ScannerTwain.cpp(217): warning C26820: Dies ist ein potenziell speicherintensiver Kopiervorgang. Verwenden Sie einen Verweis, es sei denn, es ist eine Kopie erforderlich (p. 9). [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+         C:\Users\manfr\source\repos\Scanner\ThirdParty\zlib\trees.c(585): warning C6385: Lesen ungültiger Daten von "s->bl_count":  die lesbare Größe beträgt "32" Byte, es können jedoch "-2" Byte gelesen werden. [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+         C:\Users\manfr\source\repos\Scanner\ThirdParty\zlib\trees.c(601): warning C6385: Lesen ungültiger Daten von "s->bl_count":  die lesbare Größe beträgt "32" Byte, es können jedoch "bits" Byte gelesen werden. [C:\Users\manfr\source\repos\Scanner\Scanner.vcxproj]
+
+    9 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:01:31.45

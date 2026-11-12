@@ -1,0 +1,318 @@
+PASS Main window controls
+PASS Scan areas exact standard list and zero origins
+PASS Scan area filter checks X+width and Y+height with unknown capability compatibility
+PASS Filtered sidebar maps visible row to original area including X/Y
+PASS Scan area geometry and named selection persist and reload
+PASS Maximum area selection persists without substituting guessed dimensions
+PASS Cancelled area management persists neither list nor filter
+PASS Accepted area management persists reset list and filter
+PASS Explicitly empty scan area list remains empty after reload
+PASS Legacy area profiles without X/Y load at zero origin
+PASS Native new area editor starts blank with four zero fields and spinners
+PASS Area editor rejects zero dimensions
+PASS Area editor rejects negative origin
+PASS Native area editor OK accepts decimal X/Y and dimensions
+PASS Native area editor Cancel preserves original geometry
+PASS Native area manager has table, commands and full containment checkbox
+PASS Native area manager deletes selected row
+PASS Native area manager reset restores seven standards
+PASS Native area manager close discards working copy
+PASS Smoke main window never visible
+PASS Zoom and sidebar controls without fullscreen button
+PASS Toolbar bitmaps and application icon nonnull
+PASS Original window title
+PASS Five original main menus
+PASS Original menu name and item count
+PASS Original menu name and item count
+PASS Original menu name and item count
+PASS Original menu name and item count
+PASS Original menu name and item count
+PASS Scanner submenu has three original commands
+PASS Empty document toolbar enable states
+PASS Original workspace origin
+PASS Page list is a hidden non-tabstop selection mirror
+PASS Hidden initial PrintWindow BMP saved
+FAIL Empty workspace entirely white without hints
+PASS Hidden smoke test never starts source enumeration
+PASS Scan main button and source arrow have separate hit areas
+PASS Toolbar text buttons share equal width
+PASS Four radio modes with exactly the selected mode checked
+PASS Mode selection persists, lays out settings, keeps list hidden, and never scans
+PASS Four radio modes with exactly the selected mode checked
+PASS Mode selection persists, lays out settings, keeps list hidden, and never scans
+PASS Four radio modes with exactly the selected mode checked
+PASS Mode selection persists, lays out settings, keeps list hidden, and never scans
+PASS Four radio modes with exactly the selected mode checked
+PASS Mode selection persists, lays out settings, keeps list hidden, and never scans
+PASS Sidebar preset controls update scan options without querying hardware
+PASS Injected native WIA selection checks exact backend and persists device ID
+PASS TWAIN remains selectable when WIA enumeration fails
+PASS Document updates hidden selection mirror without saving workspace
+PASS New scans are unselected until clicked
+PASS Populated document toolbar enable states
+PASS Busy window defers forwarded arguments
+PASS Deferred argument drains without document reentrancy
+PASS Central click selects page and updates hidden mirror
+PASS Central Ctrl click adds selection
+PASS Central Shift click selects anchored range
+PASS Central Ctrl click toggles selected page off
+PASS Central rubber-band multi-selection updates mirror
+PASS Central drag reorders selected page and keeps selection
+PASS UI command applies multi-selection edit
+PASS Plus and minus cycle adjacent five modes and clamp at endpoints
+PASS Symbols toolbar main action selects large grid
+PASS Each view lays out every page and retains settings without visible list
+PASS Width uses exact viewport width and vertical sequence without horizontal bar
+PASS Each view lays out every page and retains settings without visible list
+PASS Fit contains whole page in viewport and lays out later pages below
+PASS Each view lays out every page and retains settings without visible list
+PASS Two pages per row includes later rows
+PASS Each view lays out every page and retains settings without visible list
+PASS Symbol grids include all later rows
+PASS Each view lays out every page and retains settings without visible list
+PASS Symbol grids include all later rows
+PASS Page Down scrolls central canvas
+PASS Page Up returns to previous viewport
+PASS Ordinary wheel scrolls vertically without changing view
+PASS Scroll clamps to content extent and hit testing follows scrolled rectangles
+PASS Negative scroll clamps to zero
+PASS Document shrink clamps scroll
+PASS UI undo restores original dimensions
+PASS UI original restoration preserves exact pixels
+PASS Hidden preview and thumbnail painting BMP saved
+PASS Options form accepts values
+PASS Crop: Apply initially disabled in button and menu
+PASS Crop: Enter cannot accept before Free
+PASS Crop: marquee maps to pixels without enabling Apply
+PASS Crop: starting a disjoint rectangle repaints the entire old outline
+PASS Crop: replacing a freed rectangle restores the whole preview and disables Apply
+PASS Crop: Free menu previews without changing pixels
+PASS Crop: new rectangle resets Free and disables Apply
+PASS Crop: Cut menu erases only rectangle
+PASS Crop: Zoom In changes view
+PASS Crop: Zoom Out restores view
+PASS Crop: Cancel does not accept edited draft
+PASS Crop: Apply initially disabled in button and menu
+PASS Crop: Enter cannot accept before Free
+PASS Crop: marquee maps to pixels without enabling Apply
+PASS Crop: starting a disjoint rectangle repaints the entire old outline
+PASS Crop: replacing a freed rectangle restores the whole preview and disables Apply
+PASS Crop: Free button previews without changing pixels
+PASS Crop: new rectangle resets Free and disables Apply
+PASS Crop: Cut button erases only rectangle
+PASS Crop: Zoom In changes view
+PASS Crop: Zoom Out restores view
+PASS Crop: Cancel does not accept edited draft
+PASS Crop: disabled toolbar is visibly different from active toolbar
+PASS Crop: enabled toolbar has Mouse-over feedback
+PASS Crop: leaving toolbar clears Mouse-over feedback
+PASS Crop: Free then Apply buttons commit exact rectangle and DPI
+PASS Startup deletes saved legacy workspace without restoring pages and preserves settings
+PASS Close discards session and clipboard and deletes legacy workspace without prompt
+PASS New session after Close restores settings but no document
+PASS UI Close clears in-memory session and hidden selection mirror
+PASS Separate JPEG/PDF qualities and export settings persist
+PASS All export options and long Unicode metadata persist losslessly
+PASS Export format roundtrips with lossless compressor and multipage option
+PASS Save opening always defaults to PDF/A, multipage, A4, overview off, quality 80 and current Windows user
+PASS Save opening selects PDF and defaults PDF/A on, allowing user changes
+PASS PDF options open with the supplied A4 template, overview off and quality 80
+PASS Native Save: all pages default, empty selection and empty document disabled
+PASS Native Save: selection enabled but all pages remains default
+PASS Native Save: exactly five formats, no sixth PDF/A format
+PASS Native Save: dynamic option and multipage availability per format
+PASS Native Save: PDF-only fields and expanded height
+PASS Native Save: dynamic option and multipage availability per format
+PASS Native Save: PDF-only fields and expanded height
+PASS Native Save: dynamic option and multipage availability per format
+PASS Native Save: PDF-only fields and expanded height
+PASS Native Save: dynamic option and multipage availability per format
+PASS Native Save: PDF-only fields and expanded height
+PASS Native Save: dynamic option and multipage availability per format
+PASS Native Save: PDF-only fields and expanded height
+PASS Native Save: PDF/A defaults checked and remains user-toggleable
+PASS Native Save: invalid filename disables Finish
+PASS Native Save: missing folder disables Finish
+PASS Native Save: selected-only without target pages cannot finish
+PASS Native Save: all pages works without selection
+PASS Native Save: Finish commits PDF/A, Unicode metadata and all-page scope
+PASS Native Save: committed options drive real synthetic PDF/A export
+PASS Native Save: Cancel never commits metadata or export path
+PASS Native Save: user can disable PDF/A and export plain PDF with edited metadata
+PASS OCR: controls reside in Save with off default and German language
+PASS OCR: warning icon is keyboard accessible beside checkbox even with OCR off
+PASS OCR: structured warning explains horizontal text, no autorotation and rotating scans
+PASS OCR: warning appears only for PDF and PDF/A
+PASS OCR: warning appears only for PDF and PDF/A
+PASS OCR: warning appears only for PDF and PDF/A
+PASS OCR: warning appears only for PDF and PDF/A
+PASS OCR: warning appears only for PDF and PDF/A
+PASS OCR: Save checkbox enables language selection
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: Save commits languages for PDF and PDF/A
+PASS OCR: controls removed from format options
+PASS OCR: format options Reset and OK preserve Save OCR settings
+PASS OCR: Save Cancel discards checkbox and language edits
+PASS OCR: Save can disable recognition without losing language
+PASS OCR: Save checkbox enables language selection
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: Save commits languages for PDF and PDF/A
+PASS OCR: controls removed from format options
+PASS OCR: format options Reset and OK preserve Save OCR settings
+PASS OCR: Save Cancel discards checkbox and language edits
+PASS OCR: Save can disable recognition without losing language
+PASS OCR: Save checkbox enables language selection
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: Save commits languages for PDF and PDF/A
+PASS OCR: controls removed from format options
+PASS OCR: format options Reset and OK preserve Save OCR settings
+PASS OCR: Save Cancel discards checkbox and language edits
+PASS OCR: Save can disable recognition without losing language
+PASS OCR: controls reside in Save with off default and German language
+PASS OCR: warning icon is keyboard accessible beside checkbox even with OCR off
+PASS OCR: structured warning explains horizontal text, no autorotation and rotating scans
+PASS OCR: warning appears only for PDF and PDF/A
+PASS OCR: warning appears only for PDF and PDF/A
+PASS OCR: warning appears only for PDF and PDF/A
+PASS OCR: warning appears only for PDF and PDF/A
+PASS OCR: warning appears only for PDF and PDF/A
+PASS OCR: Save checkbox enables language selection
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: Save commits languages for PDF and PDF/A
+PASS OCR: controls removed from format options
+PASS OCR: format options Reset and OK preserve Save OCR settings
+PASS OCR: Save Cancel discards checkbox and language edits
+PASS OCR: Save can disable recognition without losing language
+PASS OCR: Save checkbox enables language selection
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: Save commits languages for PDF and PDF/A
+PASS OCR: controls removed from format options
+PASS OCR: format options Reset and OK preserve Save OCR settings
+PASS OCR: Save Cancel discards checkbox and language edits
+PASS OCR: Save can disable recognition without losing language
+PASS OCR: Save checkbox enables language selection
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: PDF-only visibility preserves selections across format changes
+PASS OCR: Save commits languages for PDF and PDF/A
+PASS OCR: controls removed from format options
+PASS OCR: format options Reset and OK preserve Save OCR settings
+PASS OCR: Save Cancel discards checkbox and language edits
+PASS OCR: Save can disable recognition without losing language
+PASS Native PDF: every page mode, overview and independent quality reaches ExportOptions
+PASS Native PDF: every page mode, overview and independent quality reaches ExportOptions
+PASS Native PDF: every page mode, overview and independent quality reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native TIFF: every color/mono codec pair and inversion reaches ExportOptions
+PASS Native format spinner matches JPG/PNG/PDF bounds
+PASS Native format Reset restores documented defaults
+PASS Native format Reset then Cancel discards every change
+PASS Native format OK commits reset values to ExportOptions
+PASS Native format accepts both numeric boundaries
+PASS Native format accepts both numeric boundaries
+PASS Native format validation rejects outside bounds
+PASS Native format validation rejects outside bounds
+PASS Native format spinner matches JPG/PNG/PDF bounds
+PASS Native format Reset restores documented defaults
+PASS Native format Reset then Cancel discards every change
+PASS Native format OK commits reset values to ExportOptions
+PASS Native format accepts both numeric boundaries
+PASS Native format accepts both numeric boundaries
+PASS Native format validation rejects outside bounds
+PASS Native format validation rejects outside bounds
+PASS Native TIFF: three color codecs and five mono codecs
+PASS Native format Reset restores documented defaults
+PASS Native format Reset then Cancel discards every change
+PASS Native format OK commits reset values to ExportOptions
+PASS Native format spinner matches JPG/PNG/PDF bounds
+PASS Native format Reset restores documented defaults
+PASS Native format Reset then Cancel discards every change
+PASS Native format OK commits reset values to ExportOptions
+PASS Native format accepts both numeric boundaries
+PASS Native format accepts both numeric boundaries
+PASS Native format validation rejects outside bounds
+PASS Native format validation rejects outside bounds
+PASS Native format spinner matches JPG/PNG/PDF bounds
+PASS Native format Reset restores documented defaults
+PASS Native format Reset then Cancel discards every change
+PASS Native format OK commits reset values to ExportOptions
+PASS Native format accepts both numeric boundaries
+PASS Native format accepts both numeric boundaries
+PASS Native format validation rejects outside bounds
+PASS Native format validation rejects outside bounds
+PASS Native automation contains six exact selectable modes
+PASS Native automation OK commits selected mode
+PASS Automation initializes paths only for last-name, index and time modes
+PASS Native automation contains six exact selectable modes
+PASS Native automation OK commits selected mode
+PASS Automation initializes paths only for last-name, index and time modes
+PASS Native automation contains six exact selectable modes
+PASS Native automation OK commits selected mode
+PASS Automation initializes paths only for last-name, index and time modes
+PASS Native automation contains six exact selectable modes
+PASS Native automation OK commits selected mode
+PASS Automation initializes paths only for last-name, index and time modes
+PASS Native automation contains six exact selectable modes
+PASS Native automation OK commits selected mode
+PASS Automation initializes paths only for last-name, index and time modes
+PASS Native automation contains six exact selectable modes
+PASS Native automation OK commits selected mode
+PASS Automation initializes paths only for last-name, index and time modes
+PASS Automation Reset selects no filename
+PASS Automation Cancel preserves original mode
+PASS Automatic file picker cancellation closes Save without export
+PASS Automatic folder picker cancellation closes Save ohne export
+PASS Index automation avoids existing numbered output targets
+PASS Time automation resolves same-timestamp collisions
+PASS Save validates reserved Windows names and accepts Unicode
+PASS Print: all pages selected and marked-pages choice disabled without selection
+PASS Print: printer list preserves default-first order
+PASS Print: copies spinner preserves previous count and is linked to edit
+PASS Print: scale and rotation defaults enabled, file output opt-in
+PASS Print: selected printer, copy boundaries and all scale/rotation combinations reach print options
+PASS Print: selected printer, copy boundaries and all scale/rotation combinations reach print options
+PASS Print: selected printer, copy boundaries and all scale/rotation combinations reach print options
+PASS Print: selected printer, copy boundaries and all scale/rotation combinations reach print options
+PASS Print: selected printer, copy boundaries and all scale/rotation combinations reach print options
+PASS Print: selected printer, copy boundaries and all scale/rotation combinations reach print options
+PASS Print: selected printer, copy boundaries and all scale/rotation combinations reach print options
+PASS Print: selected printer, copy boundaries and all scale/rotation combinations reach print options
+PASS Print: invalid copies rejected before driver access
+PASS Print: invalid copies rejected before driver access
+PASS Print: invalid copies rejected before driver access
+PASS Print: invalid copies rejected before driver access
+PASS Print: missing printer selection rejected
+PASS Print: changing printer discards previous driver's private settings
+PASS Print: Cancel commits no edited options and cannot print
+PASS Print: dragged selection presets marked pages
+PASS Print: radio buttons switch exclusively to all pages
+PASS Print: title-bar close cancels
+PASS Print: no printers disables Print and Settings
+PASS All six automation modes persist
+PASS All six automation modes persist
+PASS All six automation modes persist
+PASS All six automation modes persist
+PASS All six automation modes persist
+PASS All six automation modes persist
+PASS Last filename persists as exact Unicode
+PASS Internal export reset persists UI defaults and clears metadata
+PASS Independent per-device brightness persistence
+PASS Repeated session close remains empty without saving
+TOTAL FAILURES: 1

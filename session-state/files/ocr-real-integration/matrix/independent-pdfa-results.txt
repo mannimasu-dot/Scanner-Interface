@@ -1,0 +1,14 @@
+﻿PASS veraPDF PDF/A-1b archive-mode-0-q80.pdf
+PASS veraPDF PDF/A-1b archive-mode-0-q100.pdf
+PASS veraPDF PDF/A-1b archive-mode-1-q80.pdf
+PASS veraPDF PDF/A-1b archive-mode-1-q100.pdf
+PASS veraPDF PDF/A-1b archive-mode-2-q80.pdf
+PASS veraPDF PDF/A-1b archive-mode-2-q100.pdf
+PASS veraPDF PDF/A-1b archive-empty-metadata.pdf
+PASS veraPDF PDF/A-1b archive-split_0001.pdf
+PASS veraPDF PDF/A-1b archive-split_0002.pdf
+PASS veraPDF PDF/A-1b archive-kind-1.pdf
+PASS veraPDF PDF/A-1b archive-kind-2.pdf
+PASS veraPDF PDF/A-1b archive-kind-3.pdf
+PASS veraPDF rejects deliberately invalid PDF/A conformance metadata
+TOTAL FAILURES: 0
