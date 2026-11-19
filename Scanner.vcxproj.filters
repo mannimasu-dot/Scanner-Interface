@@ -153,131 +153,48 @@
     <None Include="Scripts\Validate-PdfA.ps1">
       <Filter>Scripts</Filter>
     </None>
-    <None Include="Logs\build-auto-duplex-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-auto-paper-source-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-debug.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-dropdown-twain-debug.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-dropdown-twain-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-empty-feeder-flatbed-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-export-debug.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-export-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-final-debug.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-final-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-folder-layout.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-interface-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-larger-plus-minus-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-maximized-window-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-no-image-message-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-original-ui-debug.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-original-ui-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-page-numbers-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-page-progress-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-progress-animation-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-scan-page-progress-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-session-views-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-source-list-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-symbols-menu-selection-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-toolbar-dropdown-width-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-toolbar-icons-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-twain-color-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-twain-debug-final.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-twain-debug.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-twain-release-final.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-twain-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\build-unselected-scans-release.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\folder-layout-Validate-Images.ps1.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\folder-layout-Validate-Pdf.ps1.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\folder-layout-Validate-PdfA.ps1.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\source-index-analysis.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\validate-adf-print-copy.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\validate-export-images.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\validate-export-pdfa.log">
-      <Filter>Logs</Filter>
-    </None>
-    <None Include="Logs\validate-final-hardware.log">
-      <Filter>Logs</Filter>
-    </None>
     <None Include="ThirdParty\NOTICE.md" />
-    <None Include="Logs\*.log" />
+    <None Include="Logs\build-auto-duplex-release.log" />
+    <None Include="Logs\build-auto-paper-source-release.log" />
+    <None Include="Logs\build-debug.log" />
+    <None Include="Logs\build-dropdown-twain-debug.log" />
+    <None Include="Logs\build-dropdown-twain-release.log" />
+    <None Include="Logs\build-empty-feeder-flatbed-release.log" />
+    <None Include="Logs\build-export-debug.log" />
+    <None Include="Logs\build-export-release.log" />
+    <None Include="Logs\build-final-debug.log" />
+    <None Include="Logs\build-final-release.log" />
+    <None Include="Logs\build-folder-layout.log" />
+    <None Include="Logs\build-interface-release.log" />
+    <None Include="Logs\build-larger-plus-minus-release.log" />
+    <None Include="Logs\build-maximized-window-release.log" />
+    <None Include="Logs\build-no-image-message-release.log" />
+    <None Include="Logs\build-original-ui-debug.log" />
+    <None Include="Logs\build-original-ui-release.log" />
+    <None Include="Logs\build-page-numbers-release.log" />
+    <None Include="Logs\build-page-progress-release.log" />
+    <None Include="Logs\build-progress-animation-release.log" />
+    <None Include="Logs\build-release.log" />
+    <None Include="Logs\build-scan-page-progress-release.log" />
+    <None Include="Logs\build-session-views-release.log" />
+    <None Include="Logs\build-source-list-release.log" />
+    <None Include="Logs\build-symbols-menu-selection-release.log" />
+    <None Include="Logs\build-toolbar-dropdown-width-release.log" />
+    <None Include="Logs\build-toolbar-icons-release.log" />
+    <None Include="Logs\build-twain-color-release.log" />
+    <None Include="Logs\build-twain-debug-final.log" />
+    <None Include="Logs\build-twain-debug.log" />
+    <None Include="Logs\build-twain-release-final.log" />
+    <None Include="Logs\build-twain-release.log" />
+    <None Include="Logs\build-unselected-scans-release.log" />
+    <None Include="Logs\folder-layout-Validate-Images.ps1.log" />
+    <None Include="Logs\folder-layout-Validate-Pdf.ps1.log" />
+    <None Include="Logs\folder-layout-Validate-PdfA.ps1.log" />
+    <None Include="Logs\source-index-analysis.log" />
+    <None Include="Logs\validate-adf-print-copy.log" />
+    <None Include="Logs\validate-export-images.log" />
+    <None Include="Logs\validate-export-pdfa.log" />
+    <None Include="Logs\validate-final-hardware.log" />
     <None Include="Logs\*.log" />
     <None Include="Logs\*.log" />
     <None Include="Logs\*.log" />
